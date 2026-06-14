@@ -69,7 +69,10 @@ This project demonstrates:
 
 **Saksham Kumar**
 
-* GitHub:
+* GitHub: https://github.com/saksham7143/Ecommerce-Sales-Dashboard
+* 
+* <img width="1183" height="679" alt="image" src="https://github.com/user-attachments/assets/f767393f-28d4-42cb-ad09-75d9eda97c7c" />
+
 
 ---
 

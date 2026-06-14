@@ -33,11 +33,7 @@ This project is an interactive **Power BI dashboard** built using an e-commerce 
 
 ## 📷 Dashboard Preview
 
-> Upload your dashboard screenshot as `Dashboard.png` and GitHub will display it automatically.
-
-```markdown
-![Dashboard Preview](Dashboard.png)
-```
+* <img width="1183" height="679" alt="image" src="https://github.com/user-attachments/assets/f767393f-28d4-42cb-ad09-75d9eda97c7c" />
 
 ## 📈 Key Metrics
 
@@ -70,9 +66,7 @@ This project demonstrates:
 **Saksham Kumar**
 
 * GitHub: https://github.com/saksham7143/Ecommerce-Sales-Dashboard
-* 
-* <img width="1183" height="679" alt="image" src="https://github.com/user-attachments/assets/f767393f-28d4-42cb-ad09-75d9eda97c7c" />
-
+  
 
 ---
 
